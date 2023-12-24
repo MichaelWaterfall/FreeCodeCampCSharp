@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\bin\Debug\net8.0\Fizzbuzz.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\bin\Debug\net8.0\Fizzbuzz.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\bin\Debug\net8.0\Fizzbuzz.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\bin\Debug\net8.0\Fizzbuzz.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\bin\Debug\net8.0\Fizzbuzz.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\refint\Fizzbuzz.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Fizzbuzz\obj\Debug\net8.0\ref\Fizzbuzz.dll
