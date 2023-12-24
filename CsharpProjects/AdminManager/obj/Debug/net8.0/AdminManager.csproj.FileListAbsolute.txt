@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\bin\Debug\net8.0\AdminManager.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\bin\Debug\net8.0\AdminManager.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\bin\Debug\net8.0\AdminManager.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\bin\Debug\net8.0\AdminManager.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\bin\Debug\net8.0\AdminManager.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\refint\AdminManager.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\AdminManager.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\AdminManager\obj\Debug\net8.0\ref\AdminManager.dll
