@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\bin\Debug\net8.0\TestSwitch.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\bin\Debug\net8.0\TestSwitch.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\bin\Debug\net8.0\TestSwitch.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\bin\Debug\net8.0\TestSwitch.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\bin\Debug\net8.0\TestSwitch.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\refint\TestSwitch.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\TestSwitch.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\TestSwitch\obj\Debug\net8.0\ref\TestSwitch.dll
