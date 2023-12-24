@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\bin\Debug\net8.0\CoinFlip.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\bin\Debug\net8.0\CoinFlip.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\bin\Debug\net8.0\CoinFlip.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\bin\Debug\net8.0\CoinFlip.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\bin\Debug\net8.0\CoinFlip.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\refint\CoinFlip.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\CoinFlip.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\CoinFlip\obj\Debug\net8.0\ref\CoinFlip.dll
