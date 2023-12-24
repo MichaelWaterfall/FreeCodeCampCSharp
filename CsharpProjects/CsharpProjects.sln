@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "GuidedProject\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{CED4C897-3277-4D69-8ADE-D0ED7884A262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminManager", "AdminManager\AdminManager.csproj", "{90E9B76D-5541-4D95-8EAE-724E7833268E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{CED4C897-3277-4D69-8ADE-D0ED7884A262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED4C897-3277-4D69-8ADE-D0ED7884A262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED4C897-3277-4D69-8ADE-D0ED7884A262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E9B76D-5541-4D95-8EAE-724E7833268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E9B76D-5541-4D95-8EAE-724E7833268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E9B76D-5541-4D95-8EAE-724E7833268E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E9B76D-5541-4D95-8EAE-724E7833268E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
