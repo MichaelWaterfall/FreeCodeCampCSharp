@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll
