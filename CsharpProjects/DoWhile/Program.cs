@@ -16,3 +16,23 @@ do {
 } while(heroHealth <= 0 || monsterHealth <= 0); 
 
 Console.WriteLine(heroHealth > monsterHealth ? "Hero wins!" : "Monster wins!");
+
+string? readResult;
+bool validEntry = false;
+int numericValue = 0;
+bool validNumber = false;
+Console.WriteLine("Please pick a number between 5 and 10: ");
+
+do {
+    readResult = Console.ReadLine();
+    validNumber = int.TryParse(readResult, out numericValue);
+    if(readResult != null) {
+        
+        if(numericValue >= 5 && numericValue <= 10) {
+            validEntry = true;
+            Console.WriteLine("Your input has been accpeted");
+        } else {
+            Console.WriteLine("Your input is invalid, please try again: ");
+        }
+    }
+} while(validEntry == false);
