@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\bin\Debug\net8.0\ConvertCast.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\bin\Debug\net8.0\ConvertCast.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\bin\Debug\net8.0\ConvertCast.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\bin\Debug\net8.0\ConvertCast.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\bin\Debug\net8.0\ConvertCast.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\refint\ConvertCast.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ConvertCast.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\ConvertCast\obj\Debug\net8.0\ref\ConvertCast.dll
