@@ -17,6 +17,7 @@ do {
 
 Console.WriteLine(heroHealth > monsterHealth ? "Hero wins!" : "Monster wins!");
 
+//Code Project 1:
 string? readResult;
 bool validEntry = false;
 int numericValue = 0;
@@ -36,3 +37,26 @@ do {
         }
     }
 } while(validEntry == false);
+
+//Code Project 2:
+string? readResult2;
+string roleName = "";
+bool validEntry2 = false;
+
+do {
+    Console.WriteLine("Enter your role name (Administrator, Manager or User)");
+    readResult2 = Console.ReadLine();
+
+    if(readResult2 != null) {
+        roleName = readResult2.Trim();
+    }
+    
+      if(roleName.ToLower() == "administrator" || roleName.ToLower() == "manager" || roleName.ToLower() == "user") {
+        validEntry2 = true;
+
+      } else {
+        Console.WriteLine($"The role name you entered, {roleName} is not valid. Enter your role name");
+      } 
+} while(validEntry2 == false);
+
+Console.WriteLine($"Your input value {roleName} has been accepted");
