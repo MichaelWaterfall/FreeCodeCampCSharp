@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\bin\Debug\net8.0\Method.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\bin\Debug\net8.0\Method.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\bin\Debug\net8.0\Method.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\bin\Debug\net8.0\Method.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\refint\Method.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Method\obj\Debug\net8.0\ref\Method.dll
