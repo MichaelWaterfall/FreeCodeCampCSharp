@@ -1,0 +1,15 @@
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\bin\Debug\net8.0\Debugger.exe
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\bin\Debug\net8.0\Debugger.deps.json
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\bin\Debug\net8.0\Debugger.runtimeconfig.json
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\bin\Debug\net8.0\Debugger.dll
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\bin\Debug\net8.0\Debugger.pdb
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.AssemblyInfoInputs.cache
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.AssemblyInfo.cs
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.csproj.CoreCompileInputs.cache
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.sourcelink.json
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.dll
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\refint\Debugger.dll
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.pdb
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\Debugger.genruntimeconfig.cache
+c:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\Debugger\obj\Debug\net8.0\ref\Debugger.dll
