@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCast", "ConvertCast\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{3C873E93-9F85-4709-AF6C-EC09C0EC81CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugger", "Debugger\Debugger.csproj", "{E678BC04-70DE-4898-8E49-ED17FF3CCC47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{3C873E93-9F85-4709-AF6C-EC09C0EC81CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C873E93-9F85-4709-AF6C-EC09C0EC81CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C873E93-9F85-4709-AF6C-EC09C0EC81CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
