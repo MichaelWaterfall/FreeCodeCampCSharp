@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hHsiWKdXvdwA3gxWuyr/ulvXB4gPwqzOaAYJ6HNG/Rqb+8snfAKY1Y9TaWasRFf3M1W0QLgonUkYK3pnTcRIRQ==",
+  "dgSpecHash": "C29Fn1Iuf0ueCZ5zW3J3J8eXp/KihqwWCfushXNWmSh3aUDVZV7UZbld9wCIGr5HEeWePYS0udzZqpVVlhj1Ww==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj",
+  "projectFilePath": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

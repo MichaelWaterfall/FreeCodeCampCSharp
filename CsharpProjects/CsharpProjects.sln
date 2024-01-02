@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugger", "Debugger\Debugger.csproj", "{E678BC04-70DE-4898-8E49-ED17FF3CCC47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettingZoo", "PettingZoo\PettingZoo.csproj", "{118CB59A-4286-49B4-9058-5658B4F944A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E678BC04-70DE-4898-8E49-ED17FF3CCC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118CB59A-4286-49B4-9058-5658B4F944A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118CB59A-4286-49B4-9058-5658B4F944A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118CB59A-4286-49B4-9058-5658B4F944A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118CB59A-4286-49B4-9058-5658B4F944A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

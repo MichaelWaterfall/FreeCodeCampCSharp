@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj": {}
+    "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\PettingZoo\\PettingZoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj": {
+    "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\PettingZoo\\PettingZoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj",
-        "projectName": "Debugger",
-        "projectPath": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\Debugger.csproj",
+        "projectUniqueName": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\PettingZoo\\PettingZoo.csproj",
+        "projectName": "PettingZoo",
+        "projectPath": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\PettingZoo\\PettingZoo.csproj",
         "packagesPath": "C:\\Users\\Tarzan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\Debugger\\obj\\",
+        "outputPath": "C:\\Users\\Tarzan\\Desktop\\FreeCodeCampC\\CsharpProjects\\PettingZoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarzan\\AppData\\Roaming\\NuGet\\NuGet.Config"
