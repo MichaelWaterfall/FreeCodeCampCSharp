@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugger", "Debugger\Debugg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PettingZoo", "PettingZoo\PettingZoo.csproj", "{118CB59A-4286-49B4-9058-5658B4F944A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{73EB273C-2F9C-40F5-9FC9-83CA41FB4C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{118CB59A-4286-49B4-9058-5658B4F944A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118CB59A-4286-49B4-9058-5658B4F944A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118CB59A-4286-49B4-9058-5658B4F944A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EB273C-2F9C-40F5-9FC9-83CA41FB4C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EB273C-2F9C-40F5-9FC9-83CA41FB4C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EB273C-2F9C-40F5-9FC9-83CA41FB4C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EB273C-2F9C-40F5-9FC9-83CA41FB4C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

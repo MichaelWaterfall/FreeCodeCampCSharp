@@ -1,0 +1,15 @@
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\bin\Debug\net8.0\PettingZoo.exe
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\bin\Debug\net8.0\PettingZoo.deps.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\bin\Debug\net8.0\PettingZoo.runtimeconfig.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\bin\Debug\net8.0\PettingZoo.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\bin\Debug\net8.0\PettingZoo.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.AssemblyInfoInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.AssemblyInfo.cs
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.csproj.CoreCompileInputs.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.sourcelink.json
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\refint\PettingZoo.dll
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.pdb
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\PettingZoo.genruntimeconfig.cache
+C:\Users\Tarzan\Desktop\FreeCodeCampC\CsharpProjects\PettingZoo\obj\Debug\net8.0\ref\PettingZoo.dll
